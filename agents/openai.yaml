@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draw.io Technical Diagrams"
+  short_description: "Readable architecture diagrams with editable PNGs"
+  default_prompt: "Use $drawio-technical-diagrams to explain this project with source-backed, readable architecture and data-flow diagrams, editable in draw.io."
